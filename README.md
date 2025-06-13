@@ -1,5 +1,9 @@
-# PassX-
-This is a tool that create a password based on client information for brute force 
+# PassX
+crate a bruteforce password list based on client information for brute force 
 
-Requirements 
+# Requirements 
 python
+# Os
+termux
+kali linux
+Ubuntu 
